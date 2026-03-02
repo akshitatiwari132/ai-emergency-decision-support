@@ -4,7 +4,7 @@ Here, I built a decision support system for prioritizing high-severity emergency
 
 My goals are to -
 *predict whether an accident is high severity
-*prioritize recall for safety-critical outcomes
+*prioritize recall for safety-critical outcomes 
 *convert predicted risk into operational dispatch levels
 *escalate uncertain predictions to human review
 *maintain interpretability and responsible AI practices
